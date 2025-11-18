@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I am Femi</h2>
 <h3 align="center">A passionate electronics engineer that enjoys hacking and building software and electronics projects</h3>
 
-- 🔭 I’m currently working on: **Tools in the box. Ideas out of the box**
+- 🔭 My moto: **Tools in the box. Ideas out of the box**
 - 🎛️ I’m currently learning: **ESP32, RF, UI engines, meters, displays, modular hardware**
 
 <!--
