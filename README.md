@@ -2,7 +2,7 @@
 <h3 align="center">A passionate electronics engineer that enjoys hacking and building software and electronics projects</h3>
 
 - 🔭 My moto: **Tools in the box. Ideas out of the box**
-- 🎛️ I’m currently developing: **ESP32, RF, UI engines, meters, displays, modular hardware**
+- 🎛️ I’m currently developing: **Arduino, ESP32, RF, UI engines, meters, displays, modular hardware**
 
 <!--
 Here are some ideas to get you started:
